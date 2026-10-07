@@ -1,5 +1,3 @@
-# Delos-Reyes_Sarmiento_MexEE402_CaseStudy
-
 # MexEE 402: Data Preprocessing Case Study
 
 MexEE Elective 2: Data Science and Machine Learning
@@ -10,7 +8,7 @@ Batangas State University, Alangilan Campus
 
 | Name | Student Number | Section |
 |---|---|---|
-| Surname, First Name | | |
+| Delos Reyes, Nykel Vhon G. |22-00401|MEXE 4103|
 | Surname, First Name | | |
 
 ## Notebook links
