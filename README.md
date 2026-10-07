@@ -11,7 +11,7 @@ Batangas State University, Alangilan Campus
 | Delos Reyes, Nykel Vhon G. |22-00401|MEXE 4103|
 | Sarmiento, Ian Clavin M. |22-04381|MEXE 4104|
 
-## <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/79e92e5c-1366-41e5-b9a6-b9829636146c" /> Notebook links
+##📚Notebook links
 
 | Chapter | Member 1 | Member 2 |
 |---|---|---|
