@@ -64,13 +64,13 @@ you and what surprised you. Not what the library does, but what you understood.
 
 *"In Chapter 8, I learned how a data preprocessing pipeline organizes different preprocessing steps. I learned that using a pipeline can make the process faster, more consistent, and less prone to errors. I also learned that the data goes through each step before it is ready for analysis or a model."* - *Sarmiento, Ian Clavin M.*
 
-*"  "* - *Delos Reyes, Nykel Vhon G.*
+*"I learned that in this chapter, data preprocessing pipeline gives the emphasis on preparing the data for ML use. It makes the data even cleaner and easier to understand, much like a product going through cleaning and sorting stations, on top of a conveyor."* - *Delos Reyes, Nykel Vhon G.*
 
 **Chapter 9**
 
 *"In Chapter 9, I learned how to clean and prepare real-world data using the Titanic dataset. I learned how to handle missing values, remove unnecessary data, and convert categorical data into numbers. What surprised me was that different types of data need different ways of preprocessing. I also learned that combining these steps into one pipeline makes the process easier and more organized."* - *Sarmiento, Ian Clavin M.*
 
-*"  "* - *Delos Reyes, Nykel Vhon G.*
+*"The visualization of the data via graphs is what surprised me this chapter since I am personally a visual learner. I am fascinated by how the Titanic dataset is able to be interpreted into different ways while also using different types of graphs such as a bar graph, a histogram - anything depending on the values presented. It seemed like all the previous chapters before chapter 9 culminated into this."* - *Delos Reyes, Nykel Vhon G.*
 
 ## <img width="32" height="32" alt="203c" src="https://github.com/user-attachments/assets/027c9e51-870a-4331-a5c6-f3c6a1c6a7a6" /> Errors we found
 
