@@ -23,7 +23,7 @@ Batangas State University, Alangilan Campus
 | Ch8 | [link]() | [link](https://colab.research.google.com/drive/18BjuvQ8vR-_leX6eUpq7VHA3bXm2oN5v?usp=sharing) |
 | Ch9 | [link]() | [link](https://colab.research.google.com/drive/13wrNnvLpzUxhl7T_AjWrwqsGeTfzWIdM?usp=sharing) |
 
-## What we learned
+## <img width="32" height="32" alt="1f4a1" src="https://github.com/user-attachments/assets/ea266907-5081-4b3c-8e9a-6973fac83d38" /> What we learned
 
 One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught
 you and what surprised you. Not what the library does, but what you understood.
@@ -58,17 +58,17 @@ In Chapter 8, I learned how a data preprocessing pipeline organizes different pr
 
 In Chapter 9, I learned how to clean and prepare real-world data using the Titanic dataset. I learned how to handle missing values, remove unnecessary data, and convert categorical data into numbers. What surprised me was that different types of data need different ways of preprocessing. I also learned that combining these steps into one pipeline makes the process easier and more organized.
 
-## Errors we found
+## <img width="32" height="32" alt="203c" src="https://github.com/user-attachments/assets/027c9e51-870a-4331-a5c6-f3c6a1c6a7a6" /> Errors we found
 
 List any mistake you found in the original notebooks, and the correct version.
 There are real ones in there. Finding them earns points.
 
-## Note on AI tools
+## <img width="32" height="32" alt="1f916" src="https://github.com/user-attachments/assets/4f58a6f1-e11f-42a2-b069-9b720fd1721c" /> Note on AI tools
 
 Say whether you used an AI tool, and what for. This is not a penalty.
 Hiding it is.
 
-## References
+## <img width="32" height="32" alt="1f587" src="https://github.com/user-attachments/assets/0a59c00c-42b0-48c0-bc29-7d5de87126f2" /> References
 
 McKinney, W. (2021). Python for Data Analysis, 3rd ed. O'Reilly.
 VanderPlas, J. Python Data Science Handbook.
