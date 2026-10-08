@@ -32,31 +32,45 @@ you and what surprised you. Not what the library does, but what you understood.
 
 **Chapter 1–3**
 
-In Chapters 1 to 3, I learned how to upload, load, and check a CSV dataset in Google Colab. I learned how to identify data types and find missing values. What surprised me was that the CSV file from Kaggle must be uploaded first because the program will show an error if the file is missing. I learned that preparing and checking the data is important before analyzing it.
+*"In Chapters 1 to 3, I learned how to upload, load, and check a CSV dataset in Google Colab. I learned how to identify data types and find missing values. What surprised me was that the CSV file from Kaggle must be uploaded first because the program will show an error if the file is missing. I learned that preparing and checking the data is important before analyzing it."* - *Sarmiento, Ian Clavin M.*
+
+*"These three chapters served as my first real encounter with preprocessing, and also my first time using Google Colab. What surprised me with the first three chapters was learning the preprocessing techniques, learing the different data types, and realizing that its very essence is to simplify the interpretation of the dataset, make it easier to understand, and make the data ready for ML models."* - *Delos Reyes, Nykel Vhon G.*
 
 **Chapter 4**
 
-In Chapter 4, I learned how to transform existing data into new and useful features. I learned about grouping values, combining variables, and creating new features. What surprised me was that changing or combining existing data can reveal new information and patterns.
+*"In Chapter 4, I learned how to transform existing data into new and useful features. I learned about grouping values, combining variables, and creating new features. What surprised me was that changing or combining existing data can reveal new information and patterns."* - *Sarmiento, Ian Clavin M.*
+
+*"Chapter 4 has given me knowledge of manipulating datasets into different types of 'groups' by adding new features, or transforming the data from categorical values into numbers and vice-versa. These different approaches to data can create interesting new features and it deepens the interpretation of the data."* - *Delos Reyes, Nykel Vhon G.*
 
 **Chapter 5**
 
-In Chapter 5, I learned about data scaling and normalization. I learned that features with different value ranges need to be scaled so they can contribute fairly to the model. I also learned that larger values can affect the results more if the data is not scaled properly.
+*"In Chapter 5, I learned about data scaling and normalization. I learned that features with different value ranges need to be scaled so they can contribute fairly to the model. I also learned that larger values can affect the results more if the data is not scaled properly."* - *Sarmiento, Ian Clavin M.*
+
+*"In Chapter 5, understanding that ranges between values on the features can create unfair comparison. Hence, the use of scaling techniques. What surprised me is that a model, much like a child, is needed to be instructed specifically for it to understand the range of the features from the processed data when it is unsure about the relative importance of the features."* - *Delos Reyes, Nykel Vhon G.*
 
 **Chapter 6**
 
-In Chapter 6, I learned about outliers and how they can affect data analysis. I learned how to identify outliers using the Z-score and IQR methods. What surprised me was that one value, such as 100, can be considered an outlier if it is much higher than the other values. I also learned different ways to handle outliers.
+*"In Chapter 6, I learned about outliers and how they can affect data analysis. I learned how to identify outliers using the Z-score and IQR methods. What surprised me was that one value, such as 100, can be considered an outlier if it is much higher than the other values. I also learned different ways to handle outliers."* - *Sarmiento, Ian Clavin M.*
+
+*"Chapter 6 answered my question about "what if the data had an inconsistent result and was different from the rest of the results?". I would describe the outlier as a method to single-out this rogue data point because it is 'problematic' to the rest of the results, and determining what methods we could use to eliminate or ignore it in the name of reliability and consistency."* - *Delos Reyes, Nykel Vhon G.*
 
 **Chapter 7**
 
-In Chapter 7, I learned about feature selection and how to choose the most useful features from a dataset. I learned that irrelevant features can reduce the accuracy of the results. I also learned how correlation shows the relationship between two variables and how filter and wrapper methods can be used to select features.
+*"In Chapter 7, I learned about feature selection and how to choose the most useful features from a dataset. I learned that irrelevant features can reduce the accuracy of the results. I also learned how correlation shows the relationship between two variables and how filter and wrapper methods can be used to select features."* - *Sarmiento, Ian Clavin M.*
+
+*"Chapter 7 gives us light on the relationships of features, how they affect one another, and also we learn here which features are considered not helpful for predicting data values for our model. I learned that despite adding new features from the data, I thought that every single feature would be beneficial to the model as it gives us new information, but I was mistaken."* - *Delos Reyes, Nykel Vhon G.*
 
 **Chapter 8**
 
-In Chapter 8, I learned how a data preprocessing pipeline organizes different preprocessing steps. I learned that using a pipeline can make the process faster, more consistent, and less prone to errors. I also learned that the data goes through each step before it is ready for analysis or a model.
+*"In Chapter 8, I learned how a data preprocessing pipeline organizes different preprocessing steps. I learned that using a pipeline can make the process faster, more consistent, and less prone to errors. I also learned that the data goes through each step before it is ready for analysis or a model."* - *Sarmiento, Ian Clavin M.*
+
+*"  "* - *Delos Reyes, Nykel Vhon G.*
 
 **Chapter 9**
 
-In Chapter 9, I learned how to clean and prepare real-world data using the Titanic dataset. I learned how to handle missing values, remove unnecessary data, and convert categorical data into numbers. What surprised me was that different types of data need different ways of preprocessing. I also learned that combining these steps into one pipeline makes the process easier and more organized.
+*"In Chapter 9, I learned how to clean and prepare real-world data using the Titanic dataset. I learned how to handle missing values, remove unnecessary data, and convert categorical data into numbers. What surprised me was that different types of data need different ways of preprocessing. I also learned that combining these steps into one pipeline makes the process easier and more organized."* - *Sarmiento, Ian Clavin M.*
+
+*"  "* - *Delos Reyes, Nykel Vhon G.*
 
 ## <img width="32" height="32" alt="203c" src="https://github.com/user-attachments/assets/027c9e51-870a-4331-a5c6-f3c6a1c6a7a6" /> Errors we found
 
