@@ -13,7 +13,7 @@ Batangas State University, Alangilan Campus
 
 ## 📚 Notebook links
 
-| Chapter |Member 1 & Member 2|
+| Chapter |Member 1 & 2|
 |---|---|
 | Ch1_2_3 |[link](https://colab.research.google.com/drive/1eOKl447mG1b7MXMTDf0iOmuB-9WwvkGv?usp=drive_link)|
 | Ch4 |[link](https://colab.research.google.com/drive/1R-Qs0-uj89TPeKZwOcmIfv_10FYWjaxp?usp=sharing)|
@@ -28,7 +28,7 @@ Batangas State University, Alangilan Campus
 One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught
 you and what surprised you. Not what the library does, but what you understood.
 
-**Sarmiento, Ian Clavin M.**
+*Sarmiento, Ian Clavin M.*
 
 **Chapter 1–3**
 
