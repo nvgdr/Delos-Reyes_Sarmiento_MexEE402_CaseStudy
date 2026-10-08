@@ -28,6 +28,36 @@ Batangas State University, Alangilan Campus
 One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught
 you and what surprised you. Not what the library does, but what you understood.
 
+**Sarmiento, Ian Clavin M.**
+
+**Chapter 1–3**
+
+In Chapters 1 to 3, I learned how to upload, load, and check a CSV dataset in Google Colab. I learned how to identify data types and find missing values. What surprised me was that the CSV file from Kaggle must be uploaded first because the program will show an error if the file is missing. I learned that preparing and checking the data is important before analyzing it.
+
+**Chapter 4**
+
+In Chapter 4, I learned how to transform existing data into new and useful features. I learned about grouping values, combining variables, and creating new features. What surprised me was that changing or combining existing data can reveal new information and patterns.
+
+**Chapter 5**
+
+In Chapter 5, I learned about data scaling and normalization. I learned that features with different value ranges need to be scaled so they can contribute fairly to the model. I also learned that larger values can affect the results more if the data is not scaled properly.
+
+**Chapter 6**
+
+In Chapter 6, I learned about outliers and how they can affect data analysis. I learned how to identify outliers using the Z-score and IQR methods. What surprised me was that one value, such as 100, can be considered an outlier if it is much higher than the other values. I also learned different ways to handle outliers.
+
+**Chapter 7**
+
+In Chapter 7, I learned about feature selection and how to choose the most useful features from a dataset. I learned that irrelevant features can reduce the accuracy of the results. I also learned how correlation shows the relationship between two variables and how filter and wrapper methods can be used to select features.
+
+**Chapter 8**
+
+In Chapter 8, I learned how a data preprocessing pipeline organizes different preprocessing steps. I learned that using a pipeline can make the process faster, more consistent, and less prone to errors. I also learned that the data goes through each step before it is ready for analysis or a model.
+
+**Chapter 9**
+
+In Chapter 9, I learned how to clean and prepare real-world data using the Titanic dataset. I learned how to handle missing values, remove unnecessary data, and convert categorical data into numbers. What surprised me was that different types of data need different ways of preprocessing. I also learned that combining these steps into one pipeline makes the process easier and more organized.
+
 ## Errors we found
 
 List any mistake you found in the original notebooks, and the correct version.
