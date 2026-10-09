@@ -83,14 +83,16 @@ There are real ones in there. Finding them earns points.
 
 **Original Code:**
 
-# Find outliers
+**Find outliers**
 outliers = data[np.abs(z_scores) > 3]
+
 print("Outliers:", outliers)
 
 **Corrected Code:**
 
-# Find outliers using a lower Z-score threshold
+**Find outliers using a lower Z-score threshold**
 outliers = data[np.abs(z_scores) > 2.5]
+
 print("Outliers:", outliers)
 
 ## <img width="32" height="32" alt="1f916" src="https://github.com/user-attachments/assets/4f58a6f1-e11f-42a2-b069-9b720fd1721c" /> Note on AI tools
