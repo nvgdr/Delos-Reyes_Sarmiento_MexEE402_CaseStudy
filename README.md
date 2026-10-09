@@ -79,7 +79,7 @@ you and what surprised you. Not what the library does, but what you understood.
 List any mistake you found in the original notebooks, and the correct version.
 There are real ones in there. Finding them earns points.
 
-* In Chapter 6, we found a possible issue with the Z-score threshold used to identify outliers. The notebook uses a cutoff of 3, but the value 100 has a Z-score of approximately 2.615. Because it does not exceed the cutoff, the code fails to identify 100 as an outlier, even though it is much higher than the other values in the dataset.
+* In Chapter 6, we noticed that the Z-score cutoff used to identify outliers may be too strict for the given dataset. The value 100 is much higher than the other numbers, but its Z-score is only 2.615, which does not exceed the original cutoff of 3. As a result, the code does not detect 100 as an outlier. To identify this value using the Z-score method, we can adjust the cutoff to 2.5.
 
 **Original Code:**
 
