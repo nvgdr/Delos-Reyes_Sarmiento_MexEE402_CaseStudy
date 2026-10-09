@@ -28,8 +28,10 @@ Batangas State University, Alangilan Campus
 One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught
 you and what surprised you. Not what the library does, but what you understood.
 
-*Sarmiento, Ian Clavin M.*
 *Delos Reyes, Nykel Vhon G.*
+
+*Sarmiento, Ian Clavin M.*
+
 **Chapter 1–3**
 
 *"In Chapters 1 to 3, I learned how to upload, load, and check a CSV dataset in Google Colab. I learned how to identify data types and find missing values. What surprised me was that the CSV file from Kaggle must be uploaded first because the program will show an error if the file is missing. I learned that preparing and checking the data is important before analyzing it."* - *Sarmiento, Ian Clavin M.*
