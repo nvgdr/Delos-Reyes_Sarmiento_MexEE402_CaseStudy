@@ -79,10 +79,18 @@ you and what surprised you. Not what the library does, but what you understood.
 List any mistake you found in the original notebooks, and the correct version.
 There are real ones in there. Finding them earns points.
 
+**Error 1:**
+* The notebook uses a Z-score cutoff of 3 to identify outliers. However, the value 100 has a Z-score of only 2.615, so it is not detected as an outlier by the code. This makes the result inconsistent with the explanation that identifies 100 as an outlier using the Z-score method.
+
+**Correct Version:**
+* The value 100 has a Z-score of 2.615, which is below the cutoff of 3. Therefore, it is not classified as an outlier using the original Z-score rule. However, the IQR method correctly identifies 100 as an outlier. The code can remain unchanged if the cutoff of 3 is intended; the explanation should be corrected to match the result.
+
 ## <img width="32" height="32" alt="1f916" src="https://github.com/user-attachments/assets/4f58a6f1-e11f-42a2-b069-9b720fd1721c" /> Note on AI tools
 
 Say whether you used an AI tool, and what for. This is not a penalty.
 Hiding it is.
+
+* We used ChatGPT to help identify the inconsistency between the Z-score calculation and the notebook's explanation. We used it to understand why 100 was not classified as an outlier using the Z-score cutoff of 3, and to correct the explanation so it matches the code's output. We also used it to check our understanding of the IQR method.
 
 ## <img width="32" height="32" alt="1f587" src="https://github.com/user-attachments/assets/0a59c00c-42b0-48c0-bc29-7d5de87126f2" /> References
 
